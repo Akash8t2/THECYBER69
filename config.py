@@ -18,7 +18,7 @@ OWNER_USERNAME = getenv("OWNER_USERNAME","CYBERCOBRAS69")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "Cobras_help_bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "Sanatni helper")
+BOT_NAME = getenv("BOT_NAME" , "COBRA HELP")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "HelloWorld279")
 # ---------------------------------------------------------
@@ -26,7 +26,7 @@ ASSUSERNAME = getenv("ASSUSERNAME" , "HelloWorld279")
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI", None)
+MONGO_DB_URI = getenv("MONGO_DB_URI", mongodb+srv://BrandedSupportGroup:BRANDED_WORLD@cluster0.v4odcq9.mongodb.net/?retryWrites=true&w=majority)
 
 
 #---------------------------------------------------------------
@@ -37,10 +37,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1001919135283))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002033734159))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6065568342))
+OWNER_ID = int(getenv("OWNER_ID", 6192377073))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
