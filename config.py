@@ -12,7 +12,7 @@ load_dotenv()
 API_ID = int(getenv("API_ID", 21702667))
 API_HASH = getenv("API_HASH", "6edfc559624f881569280cdb416f0c06")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN", 7481987722:AAHkqqN_jE1k59xJ00cDRvHBs8_8rRAyNEM)
+BOT_TOKEN = getenv("BOT_TOKEN", "7481987722:AAHkqqN_jE1k59xJ00cDRvHBs8_8rRAyNEM")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","CYBERCOBRAS69")
 # --------------------------------------------------------
@@ -26,7 +26,7 @@ ASSUSERNAME = getenv("ASSUSERNAME" , "HelloWorld279")
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI", mongodb+srv://BrandedSupportGroup:BRANDED_WORLD@cluster0.v4odcq9.mongodb.net/?retryWrites=true&w=majority)
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://BrandedSupportGroup:BRANDED_WORLD@cluster0.v4odcq9.mongodb.net/?retryWrites=true&w=majority")
 
 
 #---------------------------------------------------------------
@@ -55,7 +55,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Akash8t2/Ak-X-MUSIC",
+    "https://github.com/Akash8t2/THECYBER69",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv(
