@@ -17,6 +17,11 @@
         "value": "",
         "required": true
       },
+"KUCH_BHI"
+"description": " TERI MARJI KUCH BHI DAL DE",
+"value": "", 
+"required: true
+},
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
         "value": "",
