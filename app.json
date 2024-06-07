@@ -14,32 +14,32 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "21702667",
+        "value": "",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "6edfc559624f881569280cdb416f0c06",
+        "value": "",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "7481987722:AAHkqqN_jE1k59xJ00cDRvHBs8_8rRAyNEM",
+        "value": "",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv://BrandedSupportGroup:BRANDED_WORLD@cluster0.v4odcq9.mongodb.net/?retryWrites=true&w=majority",
+        "value": "",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "6192377073",
+        "value": "",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @STRINGSEASO_NBOT on Telegram.",
-        "value": "BQF_2hQAH3vU4555lOiUYV6390HjEgdZZKI-OLWVTdOiOp2ClkAGk5i5vokFvd-jrT3qqQ__HFNgtYXU6BH6lcn6-iuVfoG6iPyhi8XyBKa5hPaxuhUP9SeghWaQa9xO4Jk8RbkmdOlWVphCSA7toHdD4TovzJU4cIBy0V8M7qHzpHPlIKGNqwU9SlHTUAV6AWqN-TnHKYh96d2PhgQqFXEv48e6tpzorI6kx-nrOyaPL7pfR_DaG8MyyahnfiXox4tAzrMzsKkaR18MubY_3kJgBo5jpP5OUoWUkP2YwrbsPkVRbH2CTNGXVN1P_OcR8IMyvFGEpaTE4rLKV5R_OsO5irSuKQAAAAGbebBGAA",
+        "value": "",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -49,12 +49,12 @@
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app name",
-        "value": "music bot",
+        "value": "",
         "required": false
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "-1002033734159",
+        "value": "",
         "required": true
       }
     },
